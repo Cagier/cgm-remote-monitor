@@ -171,10 +171,10 @@ a, a:visited, a:link {
   width: 250px;
 }
 .statusPills {
-  font-size: 50px;
-  line-height: 53px;
+  font-size: 20px;
+  line-height: 23px;
 }
-/* Was 20 and 23 */
+/* Was tempiorarily 50 and 53 */
 .loading .statusPills {
   display: none;
 }
