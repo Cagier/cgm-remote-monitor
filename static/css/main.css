@@ -171,8 +171,8 @@ a, a:visited, a:link {
   width: 250px;
 }
 .statusPills {
-  font-size: 20px;
-  line-height: 23px;
+  font-size: 50px;
+  line-height: 53px;
 }
 /* Was tempiorarily 50 and 53 */
 .loading .statusPills {
