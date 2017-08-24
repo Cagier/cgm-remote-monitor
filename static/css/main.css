@@ -393,8 +393,8 @@ a, a:visited, a:link {
   }
 
   .statusPills {
-    font-size: 15px;
-    line-height: 17px;
+    font-size: 65px;
+    line-height: 67px;
   }
 
   .focus-range {
@@ -530,8 +530,8 @@ a, a:visited, a:link {
   .statusPills {
     display: inline;
     margin-left: auto;
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 58px;
+    line-height: 60px;
   }
 
   .focus-range {
@@ -611,8 +611,8 @@ a, a:visited, a:link {
   }
 
   .statusPills {
-    font-size: 15px;
-    line-height: 17px;
+    font-size: 45px;
+    line-height: 47px;
   }
 
 }
@@ -673,7 +673,7 @@ a, a:visited, a:link {
   .statusPills {
     display: inline;
     margin-left: auto;
-    font-size: 12px;
-    line-height: 13px;
+    font-size: 52px;
+    line-height: 53px;
   }
 }
